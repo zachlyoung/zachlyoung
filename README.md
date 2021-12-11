@@ -5,10 +5,10 @@ I recently graduated from WashU with a BS in computer science and minor in human
 ## Software Projects
 
 #### Here are some of the things I'm working on currently:
-- 📋 A Project Management System for Developer Student Club WashU ([Link](https://github.com/dscwashu/dsc-web-app))
+- 📋 A Project Management System for Developer Student Club WashU ([Link](https://github.com/dscwashu/dsc-web-app)) ([Website](https://www.dscwashu.com))
 
 #### In the past, I've worked on the following projects.
-- 🌙 A Marketing Page for Lunar New Year Festival WashU ([Link](https://github.com/wulnyf/website))
+- 🌙 A Marketing Page for Lunar New Year Festival WashU ([Link](https://github.com/wulnyf/website)). ([Website](https://lnyf.wustl.edu))
 - 🎶 GAIDA: A Dockerized Application for Transcribing .wav Files to .midi files ([Link](https://github.com/zachary-young/cse427-final-project))
 - 🏥 A Marketing Page for a Health Literacy Based Search Engine ([Link](https://github.com/Safinia-Organization/safinia-web-app))
 - 📏 A Web-based Imaging Tool for Measuring the Length of Sperm Cells of Fruit Flies ([Link](https://github.com/zachary-young/cse554-final-project))
