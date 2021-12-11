@@ -20,9 +20,9 @@ I recently graduated from WashU with a BS in computer science and minor in human
 
 ## Design Projects
 
+- 🌍 A Case Study for Planets in the Solar System ([Link](https://www.figma.com/file/B8yladWPDYePvdhr7tkD0o/Case-Study))
+- 🌃 A Guide for New York City's Chinatown ([Link](https://www.figma.com/file/WQKUccaN5QqvDgQYhSgqvL/Main?node-id=252%3A0))
+- 🐠 A Weather Tool for Fishing ([Link](https://www.figma.com/file/Ke3mth1skuOLhIdkab0dxj/Weather))
 - 📋 Mockups for the Project Management System for Developer Student Club WashU ([Link](https://www.figma.com/file/X74Uktv5Fh7VCMoLVJYmbj/DSC-Web-App?node-id=2%3A13))
 - 🌙 Mockups for the Marketing Page for Lunar New Year Festival WashU ([Link](https://www.figma.com/file/UxqKqBe88J67L3B8U2cwaf/Website?node-id=2%3A2))
 - 🤒 Mockups for Cathara, a Symptom Checker which uses Personal Health Records ([Link](https://www.figma.com/file/UsQzhbB0o28rSOxZczaFDF/Prototype?node-id=0%3A1))
-- 🌍 A Case Study for Planets in the Solar System ([Link](https://www.figma.com/file/B8yladWPDYePvdhr7tkD0o/Case-Study))
-- 🌃 A Guide for New York City's Chinatown ([Link](https://www.figma.com/file/WQKUccaN5QqvDgQYhSgqvL/Main))
-- 🐠 A Weather Tool for Fishing ([Link](https://www.figma.com/file/Ke3mth1skuOLhIdkab0dxj/Weather))
